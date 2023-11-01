@@ -69,6 +69,7 @@ Make sure to replace the placeholders with your actual configuration values.
 To run the application locally, use the following command:
 
 ```bash
+
 npm start
 ```
 
