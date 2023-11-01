@@ -105,7 +105,3 @@ If you'd like to contribute to this project, please follow our [Contribution Gui
 ## License
 
 This E-commerce Application is open-source and available under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README with additional sections, such as "Features," "Testing," "API Documentation," or any other information that is relevant to your E-commerce Application on IBM Cloud Foundry.
